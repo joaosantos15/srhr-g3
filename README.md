@@ -1,8 +1,11 @@
 # Robot Telling Stories
 
 ## Information
+
 **Group number:** 3
+
 **Predicted duration:** 1 month (1 week experiment and 3 weeks data analysis and document creation)
+
 **Predicted date:** January 20
 
 ## Study
