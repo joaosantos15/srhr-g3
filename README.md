@@ -36,3 +36,4 @@ One group is exposed to the robot reading the story and  the other to the tablet
 
 In the end, there will be an interview with each child in order to access what the child has or not retained from the story.
 
+The protocol can be [found here](https://github.com/joaosantos15/srhr-g3/blob/master/protocol.md).
