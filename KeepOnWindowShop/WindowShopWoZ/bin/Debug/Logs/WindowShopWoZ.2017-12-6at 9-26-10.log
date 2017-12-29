@@ -1,0 +1,49 @@
+(00:00:00.0723157) WindowShopWoZ[log]: Attempt to start service on port '2000'
+(00:00:00.0903559) WindowShopWoZ[log]: Attempt to start Slow service on port '2000'
+(00:00:00.1603820) WindowShopWoZ[log]: Creating publisher from type 'IWindowShopPublisher'
+(00:00:00.1690539) WindowShopWoZ[log]: Found Action interface: 'EmoteCommonMessages.IFMLSpeech'
+(00:00:00.2027973) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtterance'
+(00:00:00.2035603) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtterance' in publisher.
+(00:00:00.2042564) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceWithTags'
+(00:00:00.2043509) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceWithTags' in publisher.
+(00:00:00.2045413) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceFromLibrary'
+(00:00:00.2046548) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceFromLibrary' in publisher.
+(00:00:00.2047902) WindowShopWoZ[log]: Announced event 'IFMLSpeech.CancelUtterance'
+(00:00:00.2048999) WindowShopWoZ[log]: Registered action 'IFMLSpeech.CancelUtterance' in publisher.
+(00:00:00.3285922) WindowShopWoZ[log]: UNCONNECTED_PUBLISH:(IFMLSpeech.PerformUtterance):[id=;utterance=adeus pessoal;category=;]
+(00:00:03.6134135) WindowShopWoZ[error]: Permission denied to open socket.
+Please run this program in Administrator mode.
+(00:00:09.0002182) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:09.2684266) WindowShopWoZ[error]: Permission denied to open socket.
+Please run thi program in Administrator mode.
+(00:00:11.0106948) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:14.3593249) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:16.3598997) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:19.0508219) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:21.0569070) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:25.3869450) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:27.3881700) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:29.7324234) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:31.7465182) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:34.3263164) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:36.3409617) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:39.3286649) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:41.3409782) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:44.1970284) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:46.2071535) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:49.0098422) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:51.0113246) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:53.5567515) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:55.5586620) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:58.0432900) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:01:00.0496523) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:01:02.4888273) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:01:03.4420767) WindowShopWoZ[log]: Set shutdown flag.
+(00:01:03.4478606) WindowShopWoZ[log]: Terminated ReceiveMessagesDispatcher
+(00:01:03.4478560) WindowShopWoZ[log]: Terminated ReceiveFastHttpRequestsDispatcher
+(00:01:03.4481011) WindowShopWoZ[log]: Terminated SendMessagesDispatcher
+(00:01:03.4478560) WindowShopWoZ[log]: Terminated ReceiveSlowHttpRequestsDispatcher
+(00:01:03.4987958) WindowShopWoZ[log]: Terminated AutoDiscoveryClient
+(00:01:03.5339439) WindowShopWoZ[log]: Stopped Fast HTTP listener.
+(00:01:03.5345638) WindowShopWoZ[log]: Stopped Slow HTTP listener.
+(00:01:03.6307157) WindowShopWoZ[log]: Dumped log to 'Logs\WindowShopWoZ.2017-12-6at 9-26-10.log'

@@ -1,0 +1,135 @@
+(00:00:00.0064934) WindowShopWoZ[log]: Attempt to start service on port '2000'
+(00:00:00.0066415) WindowShopWoZ[log]: Attempt to start Slow service on port '2000'
+(00:00:00.0104339) WindowShopWoZ[log]: Creating publisher from type 'IWindowShopPublisher'
+(00:00:00.0105379) WindowShopWoZ[log]: Found Action interface: 'EmoteCommonMessages.IFMLSpeech'
+(00:00:00.0157545) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtterance'
+(00:00:00.0161992) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtterance' in publisher.
+(00:00:00.0163377) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceWithTags'
+(00:00:00.0163480) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceWithTags' in publisher.
+(00:00:00.0163698) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceFromLibrary'
+(00:00:00.0163748) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceFromLibrary' in publisher.
+(00:00:00.0163832) WindowShopWoZ[log]: Announced event 'IFMLSpeech.CancelUtterance'
+(00:00:00.0163875) WindowShopWoZ[log]: Registered action 'IFMLSpeech.CancelUtterance' in publisher.
+(00:00:00.0163977) WindowShopWoZ[log]: Found Action interface: 'Thalamus.BML.IAnimationActions'
+(00:00:00.0164174) WindowShopWoZ[log]: Announced event 'IAnimationActions.PlayAnimation'
+(00:00:00.0164217) WindowShopWoZ[log]: Registered action 'IAnimationActions.PlayAnimation' in publisher.
+(00:00:00.0164305) WindowShopWoZ[log]: Announced event 'IAnimationActions.PlayAnimationQueued'
+(00:00:00.0164340) WindowShopWoZ[log]: Registered action 'IAnimationActions.PlayAnimationQueued' in publisher.
+(00:00:00.0164418) WindowShopWoZ[log]: Announced event 'IAnimationActions.StopAnimation'
+(00:00:00.0164509) WindowShopWoZ[log]: Registered action 'IAnimationActions.StopAnimation' in publisher.
+(00:00:00.0870247) WindowShopWoZ[log]: UNCONNECTED_PUBLISH:(IAnimationActions.PlayAnimation):[id=;animation=goodbye;]
+(00:00:00.1954515) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:00.1993642) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.1993744) WindowShopWoZ[log]: Attempt to start service on port '2001'
+(00:00:00.1993719) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.1993804) WindowShopWoZ[log]: Attempt to start Slow service on port '2001'
+(00:00:00.2700244) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.2700342) WindowShopWoZ[log]: Attempt to start Slow service on port '2002'
+(00:00:00.2742226) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.2742339) WindowShopWoZ[log]: Attempt to start service on port '2002'
+(00:00:00.3498779) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.3498882) WindowShopWoZ[log]: Attempt to start Slow service on port '2003'
+(00:00:00.3556224) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.3556351) WindowShopWoZ[log]: Attempt to start service on port '2003'
+(00:00:00.3616532) WindowShopWoZ[log]: Found Thalamus Master for character '' at '127.0.0.1:2000/2001'.
+(00:00:00.4235671) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.4235773) WindowShopWoZ[log]: Attempt to start Slow service on port '2004'
+(00:00:00.4295856) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.4295986) WindowShopWoZ[log]: Attempt to start service on port '2004'
+(00:00:00.5040293) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.5040413) WindowShopWoZ[log]: Attempt to start Slow service on port '2005'
+(00:00:00.5132220) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.5132337) WindowShopWoZ[log]: Attempt to start service on port '2005'
+(00:00:00.5870670) WindowShopWoZ[log]: Slow XMLRPC Listening on port 2005
+(00:00:00.5960429) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.5960669) WindowShopWoZ[log]: Attempt to start service on port '2006'
+(00:00:00.6717042) WindowShopWoZ[log]: fast XMLRPC Listening on port 2006
+(00:00:00.6810824) WindowShopWoZ[log]: Set Master fast endpoint to 127.0.0.1:2000
+(00:00:00.6811741) WindowShopWoZ[log]: Set Master slow endpoint to 127.0.0.1:2001
+(00:00:00.6811794) WindowShopWoZ[log]: Connecting...
+(00:00:00.7169918) WindowShopWoZ[log]: Connected with clientId '2ad1036f-00bc-4fba-9e07-85a916f68ae9'
+(00:00:02.2200053) WindowShopWoZ[log]: 2,2195741:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=goodbye;]
+(00:01:12.8970039) WindowShopWoZ[log]: 72,8969891:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:01:31.7711624) WindowShopWoZ[log]: 91,7711451:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=rodinThinking;]
+(00:01:32.4847191) WindowShopWoZ[log]: 92,4847046:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=rodinThinking;]
+(00:01:40.3584537) WindowShopWoZ[log]: 100,3584484:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=enthusiasm;]
+(00:01:40.7961114) WindowShopWoZ[log]: 100,7961054:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=enthusiasm;]
+(00:01:42.4019270) WindowShopWoZ[log]: 102,4019175:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=enthusiasm;]
+(00:01:50.2242052) WindowShopWoZ[log]: 110,2241992:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:01:51.4473957) WindowShopWoZ[log]: 111,4473897:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:02:01.0286740) WindowShopWoZ[log]: 121,0286666:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:02:02.2901735) WindowShopWoZ[log]: 122,2901665:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:02:06.1567923) WindowShopWoZ[log]: 126,1567764:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:02:14.1503758) WindowShopWoZ[log]: 134,1503684:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:02:15.1266582) WindowShopWoZ[log]: 135,1266532:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:02:18.5248531) WindowShopWoZ[log]: 138,5248327:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:02:26.4472850) WindowShopWoZ[log]: 146,4472773:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=enthusiasm;]
+(00:02:27.1095864) WindowShopWoZ[log]: 147,1095801:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=enthusiasm;]
+(00:02:28.8281859) WindowShopWoZ[log]: 148,8281696:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=enthusiasm;]
+(00:02:33.1380771) WindowShopWoZ[log]: 153,138063:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:03:03.1039427) WindowShopWoZ[log]: 183,1039375:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:03:04.0218903) WindowShopWoZ[log]: 184,0218812:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:03:07.3665742) WindowShopWoZ[log]: 187,366558:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:03:48.4771190) WindowShopWoZ[log]: 228,477113:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:03:48.9614054) WindowShopWoZ[log]: 228,9614001:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:03:50.0537976) WindowShopWoZ[log]: 230,0537905:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:03:52.5600603) WindowShopWoZ[log]: 232,5600533:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:03:53.4469373) WindowShopWoZ[log]: 233,4469324:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:03:54.2826267) WindowShopWoZ[log]: 234,2826211:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:03:55.0481842) WindowShopWoZ[log]: 235,0481782:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:04:03.0149825) WindowShopWoZ[log]: 243,0149779:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:04:03.6551695) WindowShopWoZ[log]: 243,6551621:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:04:05.0613995) WindowShopWoZ[log]: 245,0613843:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:04:28.0745507) WindowShopWoZ[log]: 268,074531:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:04:28.7999684) WindowShopWoZ[log]: 268,7999607:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:04:30.5337706) WindowShopWoZ[log]: 270,5337562:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:04:45.5450840) WindowShopWoZ[log]: 285,5450501:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:05:07.0832784) WindowShopWoZ[log]: 307,0832731:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:05:07.7079479) WindowShopWoZ[log]: 307,7079422:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:05:10.7373153) WindowShopWoZ[log]: 310,7373079:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:05:12.4072709) WindowShopWoZ[log]: 312,4072667:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:05:12.5687232) WindowShopWoZ[log]: 312,5687169:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:05:12.7030695) WindowShopWoZ[log]: 312,7030638:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=sadnessNodding;]
+(00:05:26.3437341) WindowShopWoZ[log]: 326,3437295:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:05:26.9508308) WindowShopWoZ[log]: 326,9508238:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:05:28.6736885) WindowShopWoZ[log]: 328,6736737:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:05:30.7362472) WindowShopWoZ[log]: 330,736237:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:05:31.4236440) WindowShopWoZ[log]: 331,4236292:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:05:32.1304036) WindowShopWoZ[log]: 332,1303878:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:05:32.7820094) WindowShopWoZ[log]: 332,7820005:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:05:47.9517301) WindowShopWoZ[log]: 347,9517245:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:05:50.2879425) WindowShopWoZ[log]: 350,2879365:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:05:52.1328885) WindowShopWoZ[log]: 352,1328818:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:05:59.8560019) WindowShopWoZ[log]: 359,8559945:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:06:00.4069871) WindowShopWoZ[log]: 360,4069815:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:06:00.5689042) WindowShopWoZ[log]: 360,5688975:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:06:01.9395562) WindowShopWoZ[log]: 361,9395502:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:06:18.3734907) WindowShopWoZ[log]: 378,3734843:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:06:22.3691138) WindowShopWoZ[log]: 382,3690973:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerRight;]
+(00:06:41.2553630) WindowShopWoZ[log]: 401,2553465:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:06:42.3431725) WindowShopWoZ[log]: 402,3431521:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=PointPlayerLeft;]
+(00:06:49.2597788) WindowShopWoZ[log]: 409,2597696:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:06:49.8598888) WindowShopWoZ[log]: 409,8598828:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:06:50.0714426) WindowShopWoZ[log]: 410,0714366:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:06:51.1273097) WindowShopWoZ[log]: 411,1273041:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:07:07.5894502) WindowShopWoZ[log]: 427,5894344:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=happy;]
+(00:07:12.7611696) WindowShopWoZ[log]: 432,7611636:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=rodinThinking;]
+(00:07:34.9327583) WindowShopWoZ[log]: 454,9327407:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=rodinThinking;]
+(00:07:53.0307197) WindowShopWoZ[log]: 473,0307102:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=goodbye;]
+(00:07:54.1745126) WindowShopWoZ[log]: 474,1744967:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=goodbye;]
+(00:08:13.9794430) WindowShopWoZ[log]: 493,979437:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=enthusiasm;]
+(00:12:48.3437231) WindowShopWoZ[log]: Sending Master a Disconnect message...
+(00:12:48.4126273) WindowShopWoZ[log]: Sent disconnect message.
+(00:12:48.4126396) WindowShopWoZ[log]: Set shutdown flag.
+(00:12:48.4140779) WindowShopWoZ[log]: Terminated ReceiveMessagesDispatcher
+(00:12:48.4140730) WindowShopWoZ[log]: Terminated ReceiveFastHttpRequestsDispatcher
+(00:12:48.4219603) WindowShopWoZ[log]: Terminated ReceiveSlowHttpRequestsDispatcher
+(00:12:48.4231085) WindowShopWoZ[log]: Terminated SendMessagesDispatcher
+(00:12:49.2995110) WindowShopWoZ[log]: Terminated AutoDiscoveryClient
+(00:12:49.3004091) WindowShopWoZ[log]: Stopped Fast HTTP listener.
+(00:12:49.3007406) WindowShopWoZ[log]: Stopped Slow HTTP listener.
+(00:12:49.3033048) WindowShopWoZ[error]: Exception in FastHttpListenerThread: A operação de E/S foi cancelada devido a uma saída do módulo ou a um pedido da aplicação.
+(00:12:49.3033326) WindowShopWoZ[log]: Terminated FastHttpListenerThread
+(00:12:49.3040957) WindowShopWoZ[error]: Exception in SlowHttpListenerThread: A operação de E/S foi cancelada devido a uma saída do módulo ou a um pedido da aplicação.
+(00:12:49.3041222) WindowShopWoZ[log]: Terminated SlowHttpListenerThread
+(00:12:49.3149863) WindowShopWoZ[log]: Dumped log to 'Logs\WindowShopWoZ.2017-12-7at16-31-40.log'

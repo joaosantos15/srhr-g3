@@ -1,0 +1,65 @@
+(00:00:00.0077117) WindowShopWoZ[log]: Attempt to start service on port '2000'
+(00:00:00.0080237) WindowShopWoZ[log]: Attempt to start Slow service on port '2000'
+(00:00:00.0207871) WindowShopWoZ[log]: Creating publisher from type 'IWindowShopPublisher'
+(00:00:00.0208685) WindowShopWoZ[log]: Found Action interface: 'EmoteCommonMessages.IFMLSpeech'
+(00:00:00.0271239) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtterance'
+(00:00:00.0290210) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtterance' in publisher.
+(00:00:00.0297143) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceWithTags'
+(00:00:00.0297280) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceWithTags' in publisher.
+(00:00:00.0297513) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceFromLibrary'
+(00:00:00.0297552) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceFromLibrary' in publisher.
+(00:00:00.0297679) WindowShopWoZ[log]: Announced event 'IFMLSpeech.CancelUtterance'
+(00:00:00.0297717) WindowShopWoZ[log]: Registered action 'IFMLSpeech.CancelUtterance' in publisher.
+(00:00:00.0297834) WindowShopWoZ[log]: Found Action interface: 'Thalamus.BML.IAnimationActions'
+(00:00:00.0297968) WindowShopWoZ[log]: Announced event 'IAnimationActions.PlayAnimation'
+(00:00:00.0298028) WindowShopWoZ[log]: Registered action 'IAnimationActions.PlayAnimation' in publisher.
+(00:00:00.0298084) WindowShopWoZ[log]: Announced event 'IAnimationActions.PlayAnimationQueued'
+(00:00:00.0298105) WindowShopWoZ[log]: Registered action 'IAnimationActions.PlayAnimationQueued' in publisher.
+(00:00:00.0298148) WindowShopWoZ[log]: Announced event 'IAnimationActions.StopAnimation'
+(00:00:00.0298172) WindowShopWoZ[log]: Registered action 'IAnimationActions.StopAnimation' in publisher.
+(00:00:00.0602491) WindowShopWoZ[log]: UNCONNECTED_PUBLISH:(IFMLSpeech.PerformUtterance):[id=;utterance=adeus;category=;]
+(00:00:00.1789050) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:00.1865536) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.1865663) WindowShopWoZ[log]: Attempt to start service on port '2001'
+(00:00:00.1865649) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.1865720) WindowShopWoZ[log]: Attempt to start Slow service on port '2001'
+(00:00:00.2835440) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.2835532) WindowShopWoZ[log]: Attempt to start Slow service on port '2002'
+(00:00:00.2835585) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.2835751) WindowShopWoZ[log]: Attempt to start service on port '2002'
+(00:00:00.3818931) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.3818924) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.3819022) WindowShopWoZ[log]: Attempt to start Slow service on port '2003'
+(00:00:00.3819061) WindowShopWoZ[log]: Attempt to start service on port '2003'
+(00:00:00.4892176) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.4892286) WindowShopWoZ[log]: Attempt to start Slow service on port '2004'
+(00:00:00.4892286) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.4892374) WindowShopWoZ[log]: Attempt to start service on port '2004'
+(00:00:00.5796511) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.5796624) WindowShopWoZ[log]: Attempt to start Slow service on port '2005'
+(00:00:00.5796688) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.5796797) WindowShopWoZ[log]: Attempt to start service on port '2005'
+(00:00:00.6783052) WindowShopWoZ[log]: Slow XMLRPC Listening on port 2005
+(00:00:00.6786208) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.6786353) WindowShopWoZ[log]: Attempt to start service on port '2006'
+(00:00:00.7761045) WindowShopWoZ[log]: fast XMLRPC Listening on port 2006
+(00:00:00.8575953) WindowShopWoZ[log]: Found Thalamus Master for character '' at '127.0.0.1:2000/2001'.
+(00:00:00.8759145) WindowShopWoZ[log]: Set Master fast endpoint to 127.0.0.1:2000
+(00:00:00.8760298) WindowShopWoZ[log]: Set Master slow endpoint to 127.0.0.1:2001
+(00:00:00.8760361) WindowShopWoZ[log]: Connecting...
+(00:00:00.9117802) WindowShopWoZ[log]: Connected with clientId 'ae126261-c429-43cc-a75a-5fd105e67d34'
+(00:00:01.9366083) WindowShopWoZ[log]: Sending Master a Disconnect message...
+(00:00:01.9711707) WindowShopWoZ[log]: Sent disconnect message.
+(00:00:01.9711781) WindowShopWoZ[log]: Set shutdown flag.
+(00:00:01.9730036) WindowShopWoZ[log]: Terminated SendMessagesDispatcher
+(00:00:01.9730036) WindowShopWoZ[log]: Terminated ReceiveSlowHttpRequestsDispatcher
+(00:00:01.9730036) WindowShopWoZ[log]: Terminated ReceiveMessagesDispatcher
+(00:00:01.9730251) WindowShopWoZ[log]: Terminated ReceiveFastHttpRequestsDispatcher
+(00:00:02.9277481) WindowShopWoZ[log]: Terminated AutoDiscoveryClient
+(00:00:02.9285450) WindowShopWoZ[log]: Stopped Fast HTTP listener.
+(00:00:02.9288169) WindowShopWoZ[log]: Stopped Slow HTTP listener.
+(00:00:02.9309865) WindowShopWoZ[error]: Exception in FastHttpListenerThread: A operação de E/S foi cancelada devido a uma saída do módulo ou a um pedido da aplicação.
+(00:00:02.9310070) WindowShopWoZ[log]: Terminated FastHttpListenerThread
+(00:00:02.9319735) WindowShopWoZ[error]: Exception in SlowHttpListenerThread: A operação de E/S foi cancelada devido a uma saída do módulo ou a um pedido da aplicação.
+(00:00:02.9319925) WindowShopWoZ[log]: Terminated SlowHttpListenerThread
+(00:00:02.9438545) WindowShopWoZ[log]: Dumped log to 'Logs\WindowShopWoZ.2017-12-6at11-26-42.log'

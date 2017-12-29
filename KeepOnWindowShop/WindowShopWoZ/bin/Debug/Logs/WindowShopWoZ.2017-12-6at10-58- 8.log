@@ -1,0 +1,34 @@
+(00:00:00.0079557) WindowShopWoZ[log]: Attempt to start service on port '2000'
+(00:00:00.0082293) WindowShopWoZ[log]: Attempt to start Slow service on port '2000'
+(00:00:00.0151011) WindowShopWoZ[log]: Creating publisher from type 'IWindowShopPublisher'
+(00:00:00.0152214) WindowShopWoZ[log]: Found Action interface: 'EmoteCommonMessages.IFMLSpeech'
+(00:00:00.0218319) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtterance'
+(00:00:00.0224525) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtterance' in publisher.
+(00:00:00.0226855) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceWithTags'
+(00:00:00.0226965) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceWithTags' in publisher.
+(00:00:00.0227268) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceFromLibrary'
+(00:00:00.0227321) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceFromLibrary' in publisher.
+(00:00:00.0227416) WindowShopWoZ[log]: Announced event 'IFMLSpeech.CancelUtterance'
+(00:00:00.0227462) WindowShopWoZ[log]: Registered action 'IFMLSpeech.CancelUtterance' in publisher.
+(00:00:00.0590111) WindowShopWoZ[log]: UNCONNECTED_PUBLISH:(IFMLSpeech.PerformUtterance):[id=;utterance=adeus pessoal;category=;]
+(00:00:00.1699831) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:00.1769808) WindowShopWoZ[log]: fast XMLRPC Listening on port 2000
+(00:00:00.1774191) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.1774342) WindowShopWoZ[log]: Attempt to start Slow service on port '2001'
+(00:00:00.2700593) WindowShopWoZ[log]: Slow XMLRPC Listening on port 2001
+(00:00:02.1710071) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:03.3319717) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:04.8739994) WindowShopWoZ[log]: Set shutdown flag.
+(00:00:04.8931447) WindowShopWoZ[log]: Terminated SendMessagesDispatcher
+(00:00:04.8931676) WindowShopWoZ[log]: Terminated ReceiveSlowHttpRequestsDispatcher
+(00:00:04.8931676) WindowShopWoZ[log]: Terminated ReceiveMessagesDispatcher
+(00:00:04.8931877) WindowShopWoZ[log]: Terminated ReceiveFastHttpRequestsDispatcher
+(00:00:05.3478567) WindowShopWoZ[log]: Unable to find a Thalamus Character.
+(00:00:06.3501491) WindowShopWoZ[log]: Terminated AutoDiscoveryClient
+(00:00:06.3509220) WindowShopWoZ[log]: Stopped Fast HTTP listener.
+(00:00:06.3511512) WindowShopWoZ[log]: Stopped Slow HTTP listener.
+(00:00:06.3539951) WindowShopWoZ[error]: Exception in SlowHttpListenerThread: A operação de E/S foi cancelada devido a uma saída do módulo ou a um pedido da aplicação.
+(00:00:06.3540381) WindowShopWoZ[log]: Terminated SlowHttpListenerThread
+(00:00:06.3547917) WindowShopWoZ[error]: Exception in FastHttpListenerThread: A operação de E/S foi cancelada devido a uma saída do módulo ou a um pedido da aplicação.
+(00:00:06.3548347) WindowShopWoZ[log]: Terminated FastHttpListenerThread
+(00:00:06.3741680) WindowShopWoZ[log]: Dumped log to 'Logs\WindowShopWoZ.2017-12-6at10-58- 8.log'

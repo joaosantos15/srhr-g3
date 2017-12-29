@@ -1,0 +1,69 @@
+(00:00:00.0063569) WindowShopWoZ[log]: Attempt to start service on port '2000'
+(00:00:00.0065057) WindowShopWoZ[log]: Attempt to start Slow service on port '2000'
+(00:00:00.0102205) WindowShopWoZ[log]: Creating publisher from type 'IWindowShopPublisher'
+(00:00:00.0103373) WindowShopWoZ[log]: Found Action interface: 'EmoteCommonMessages.IFMLSpeech'
+(00:00:00.0165669) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtterance'
+(00:00:00.0170158) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtterance' in publisher.
+(00:00:00.0171731) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceWithTags'
+(00:00:00.0171791) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceWithTags' in publisher.
+(00:00:00.0172002) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceFromLibrary'
+(00:00:00.0172041) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceFromLibrary' in publisher.
+(00:00:00.0172119) WindowShopWoZ[log]: Announced event 'IFMLSpeech.CancelUtterance'
+(00:00:00.0172158) WindowShopWoZ[log]: Registered action 'IFMLSpeech.CancelUtterance' in publisher.
+(00:00:00.0172295) WindowShopWoZ[log]: Found Action interface: 'Thalamus.BML.IAnimationActions'
+(00:00:00.0172471) WindowShopWoZ[log]: Announced event 'IAnimationActions.PlayAnimation'
+(00:00:00.0172514) WindowShopWoZ[log]: Registered action 'IAnimationActions.PlayAnimation' in publisher.
+(00:00:00.0172605) WindowShopWoZ[log]: Announced event 'IAnimationActions.PlayAnimationQueued'
+(00:00:00.0172641) WindowShopWoZ[log]: Registered action 'IAnimationActions.PlayAnimationQueued' in publisher.
+(00:00:00.0172746) WindowShopWoZ[log]: Announced event 'IAnimationActions.StopAnimation'
+(00:00:00.0172785) WindowShopWoZ[log]: Registered action 'IAnimationActions.StopAnimation' in publisher.
+(00:00:00.0454706) WindowShopWoZ[log]: UNCONNECTED_PUBLISH:(IFMLSpeech.PerformUtterance):[id=;utterance=adeus;category=;]
+(00:00:00.1613017) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:00.1668769) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.1668938) WindowShopWoZ[log]: Attempt to start Slow service on port '2001'
+(00:00:00.1668981) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.1669104) WindowShopWoZ[log]: Attempt to start service on port '2001'
+(00:00:00.2861146) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.2861411) WindowShopWoZ[log]: Attempt to start service on port '2002'
+(00:00:00.2871894) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.2872102) WindowShopWoZ[log]: Attempt to start Slow service on port '2002'
+(00:00:00.3980179) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.3980179) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.3980292) WindowShopWoZ[log]: Attempt to start Slow service on port '2003'
+(00:00:00.3980352) WindowShopWoZ[log]: Attempt to start service on port '2003'
+(00:00:00.4978303) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.4978465) WindowShopWoZ[log]: Attempt to start service on port '2004'
+(00:00:00.4978536) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.4978656) WindowShopWoZ[log]: Attempt to start Slow service on port '2004'
+(00:00:00.5887451) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.5887469) WindowShopWoZ[log]: Port unavaliable.
+(00:00:00.5887575) WindowShopWoZ[log]: Attempt to start Slow service on port '2005'
+(00:00:00.5887621) WindowShopWoZ[log]: Attempt to start service on port '2005'
+(00:00:00.6900847) WindowShopWoZ[log]: fast XMLRPC Listening on port 2005
+(00:00:00.6903277) WindowShopWoZ[log]: Slow Port unavaliable.
+(00:00:00.6903379) WindowShopWoZ[log]: Attempt to start Slow service on port '2006'
+(00:00:00.7575766) WindowShopWoZ[log]: Slow XMLRPC Listening on port 2006
+(00:00:00.8402293) WindowShopWoZ[log]: Found Thalamus Master for character '' at '127.0.0.1:2000/2001'.
+(00:00:00.8963257) WindowShopWoZ[log]: Set Master fast endpoint to 127.0.0.1:2000
+(00:00:00.8967985) WindowShopWoZ[log]: Set Master slow endpoint to 127.0.0.1:2001
+(00:00:00.8968208) WindowShopWoZ[log]: Connecting...
+(00:00:01.0026791) WindowShopWoZ[log]: Connected with clientId '5ca085d8-59af-4b34-9931-723b17aa6e45'
+(00:00:02.1449977) WindowShopWoZ[log]: 2,1437713:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=rodinThinking;]
+(00:08:59.3663395) WindowShopWoZ[log]: 539,3663243:Sent::IAnimationActions.PlayAnimation:(IAnimationActions.PlayAnimation):[id=;animation=rodinThinking;]
+(00:09:04.2712441) WindowShopWoZ[log]: 544,2712152:Sent::IFMLSpeech.PerformUtterance:(IFMLSpeech.PerformUtterance):[id=;utterance=ola pessoal;category=;]
+(00:09:06.2748155) WindowShopWoZ[log]: 546,2747855:Sent::IFMLSpeech.PerformUtterance:(IFMLSpeech.PerformUtterance):[id=;utterance=ola pessoal;category=;]
+(00:11:58.9082343) WindowShopWoZ[log]: Sending Master a Disconnect message...
+(00:11:58.9613380) WindowShopWoZ[log]: Sent disconnect message.
+(00:11:58.9613447) WindowShopWoZ[log]: Set shutdown flag.
+(00:11:58.9631536) WindowShopWoZ[log]: Terminated ReceiveMessagesDispatcher
+(00:11:58.9631603) WindowShopWoZ[log]: Terminated ReceiveFastHttpRequestsDispatcher
+(00:11:58.9631663) WindowShopWoZ[log]: Terminated SendMessagesDispatcher
+(00:11:58.9632037) WindowShopWoZ[log]: Terminated ReceiveSlowHttpRequestsDispatcher
+(00:11:59.5423535) WindowShopWoZ[log]: Terminated AutoDiscoveryClient
+(00:11:59.5427675) WindowShopWoZ[log]: Stopped Fast HTTP listener.
+(00:11:59.5429004) WindowShopWoZ[log]: Stopped Slow HTTP listener.
+(00:11:59.5439833) WindowShopWoZ[error]: Exception in FastHttpListenerThread: A operação de E/S foi cancelada devido a uma saída do módulo ou a um pedido da aplicação.
+(00:11:59.5440027) WindowShopWoZ[log]: Terminated FastHttpListenerThread
+(00:11:59.5440193) WindowShopWoZ[error]: Exception in SlowHttpListenerThread: A operação de E/S foi cancelada devido a uma saída do módulo ou a um pedido da aplicação.
+(00:11:59.5440358) WindowShopWoZ[log]: Terminated SlowHttpListenerThread
+(00:11:59.5740266) WindowShopWoZ[log]: Dumped log to 'Logs\WindowShopWoZ.2017-12-6at11- 7-44.log'

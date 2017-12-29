@@ -1,0 +1,22 @@
+(00:00:00.0150454) WindowShopWoZ[log]: Attempt to start service on port '2000'
+(00:00:00.0290083) WindowShopWoZ[log]: Attempt to start Slow service on port '2000'
+(00:00:00.1129847) WindowShopWoZ[log]: Creating publisher from type 'IWindowShopPublisher'
+(00:00:00.1131279) WindowShopWoZ[log]: Found Action interface: 'EmoteCommonMessages.IFMLSpeech'
+(00:00:00.1196932) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtterance'
+(00:00:00.1202151) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtterance' in publisher.
+(00:00:00.1204567) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceWithTags'
+(00:00:00.1204736) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceWithTags' in publisher.
+(00:00:00.1204979) WindowShopWoZ[log]: Announced event 'IFMLSpeech.PerformUtteranceFromLibrary'
+(00:00:00.1205081) WindowShopWoZ[log]: Registered action 'IFMLSpeech.PerformUtteranceFromLibrary' in publisher.
+(00:00:00.1205254) WindowShopWoZ[log]: Announced event 'IFMLSpeech.CancelUtterance'
+(00:00:00.1205462) WindowShopWoZ[log]: Registered action 'IFMLSpeech.CancelUtterance' in publisher.
+(00:00:00.1907427) WindowShopWoZ[log]: UNCONNECTED_PUBLISH:(IFMLSpeech.PerformUtterance):[id=;utterance=adeus pessoal;category=;]
+(00:00:03.2064006) WindowShopWoZ[log]: UNCONNECTED_PUBLISH:(IFMLSpeech.PerformUtterance):[id=;utterance=adeus pessoal;category=;]
+(00:00:04.0675871) WindowShopWoZ[log]: UNCONNECTED_PUBLISH:(IFMLSpeech.PerformUtterance):[id=;utterance=adeus pessoal;category=;]
+(00:00:05.1536555) WindowShopWoZ[log]: UNCONNECTED_PUBLISH:(IFMLSpeech.PerformUtterance):[id=;utterance=ola pessoal;category=;]
+(00:00:08.4568217) WindowShopWoZ[error]: Permission denied to open socket.
+Please run thi program in Administrator mode.
+(00:00:09.3837803) WindowShopWoZ[error]: Permission denied to open socket.
+Please run this program in Administrator mode.
+(00:00:09.8139569) WindowShopWoZ[log]: Searching for a Thalamus Character...
+(00:00:10.4295700) WindowShopWoZ[log]: Found Thalamus Master for character '' at '192.168.1.69:2000/2001'.
